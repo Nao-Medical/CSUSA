@@ -636,7 +636,7 @@ export const alternateName = {
   [EModelEndpoint.assistants]: 'Assistants',
   [EModelEndpoint.agents]: 'Agents',
   [EModelEndpoint.azureAssistants]: 'Azure Assistants',
-  [EModelEndpoint.azureOpenAI]: 'CSUSA',
+  [EModelEndpoint.azureOpenAI]: 'CSUSAooo',
   [EModelEndpoint.chatGPTBrowser]: 'ChatGPT',
   [EModelEndpoint.gptPlugins]: 'Plugins',
   [EModelEndpoint.google]: 'Google',
