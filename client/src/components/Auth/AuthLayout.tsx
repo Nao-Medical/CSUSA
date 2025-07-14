@@ -63,11 +63,13 @@ function AuthLayout({
       <BlinkAnimation active={isFetching}>
         <div className="mt-6 h-10 w-full bg-cover">
           <img
-            src="/assets/csusa-logo.svg"
+            src="/assets/QUIXOA-logo.png"
             className="w-full object-contain h-[450%]"
             alt={localize('com_ui_logo', { 0: startupConfig?.appTitle ?? 'Quixoa' })}
           />
+          <p className='text-center text-white mt-5 text-xl font-bold'>PB Genius</p>
         </div>
+
       </BlinkAnimation>
       <DisplayError />
       <div className="absolute bottom-0 left-0 md:m-4">
