@@ -67,7 +67,7 @@ function AuthLayout({
             className="w-full object-contain h-[450%]"
             alt={localize('com_ui_logo', { 0: startupConfig?.appTitle ?? 'Quixoa' })}
           />
-          <p className='text-center text-white mt-5 text-xl font-bold'>PB Genius</p>
+          <p className='text-center text-white mt-5 text-xl font-bold'>PBG Genius</p>
         </div>
 
       </BlinkAnimation>
